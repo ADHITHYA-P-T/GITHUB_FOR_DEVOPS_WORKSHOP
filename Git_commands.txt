@@ -1,0 +1,37 @@
+
+git init → Create a new Git repository in current folder
+
+git status → Show current state of files (untracked, modified, staged)
+
+git add filename → Stage a file for commit
+
+git add . → Stage all changed files
+
+git rm –cached filename → Stop tracking file but keep it in local folder
+
+git commit -m “message” → Save staged changes to repository history
+
+git rm filename → Delete file and stage the deletion
+
+git restore filename → Restore file from last commit (before commit
+only)
+
+git restore –staged filename → Unstage a file from staging area
+
+git checkout HEAD~1 – filename → Restore file from previous commit after
+deletion is committed
+
+git log → Show commit history
+
+git diff → Show changes between working file and last commit
+
+git reset filename → Unstage file (older alternative to restore –staged)
+
+git reset –hard → Discard all local changes and match last commit
+
+git revert → Undo a commit safely with new commit
+
+git show → View details of a specific commit
+
+
+
