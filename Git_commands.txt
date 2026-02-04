@@ -33,5 +33,7 @@ git revert → Undo a commit safely with new commit
 
 git show → View details of a specific commit
 
+This is new changes 
+
 
 
