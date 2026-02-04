@@ -1,1 +1,7 @@
-Print("Hello guys, Lets learn git")
+def hello():
+    """
+    this is demo
+    """
+    return "Hello Dosto"
+
+hello()
