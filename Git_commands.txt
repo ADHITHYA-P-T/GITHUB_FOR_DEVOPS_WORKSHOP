@@ -33,5 +33,8 @@ git revert → Undo a commit safely with new commit
 
 git show → View details of a specific commit
 
-
-
+  16 git remote -v
+  17 git push origin master
+  18 git remote set-url origin https://github.com/ADHITHYA-P-T/GITHUB_FOR_DEVOPS_WORKSHOP.git
+  19 git push -u origin main
+  
